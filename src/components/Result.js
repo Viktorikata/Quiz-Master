@@ -1,6 +1,6 @@
 import React from "react";
 
-function Result ({score, onResult}) {
+function Result ({score, onRestart}) {
     return (
         <div>
             <h2>Вы набрали {score} быллов!</h2>

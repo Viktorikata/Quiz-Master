@@ -1,12 +1,12 @@
 const questions = [
     {
-        question: "Какой язык используется для стилизации веб-страниц",
+        question: "Какой язык используется для стилизации веб-страниц?",
         options: ["HTML", "CSS", "Kotlin", "JS"],
         correctAnswer: 1,
     },
 
     {
-        question: "Что означает  в веб-разбработке",
+        question: "Что означает  в веб-разбработке DOM?",
         options: ['Document Object Model', 'Display Object Management', 'Digital Ordinance Model', 'Desktop Oriented Mode'],
         correctAnswer: 0,
     },

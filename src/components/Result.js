@@ -2,9 +2,9 @@ import React from "react";
 
 function Result ({score, onRestart}) {
     return (
-        <div>
-            <h2>Вы набрали {score} быллов!</h2>
-            <button onClick={onRestart}>Пройти заново</button>
+        <div className="result-container">
+            <h2 className="result-text">Вы набрали {score} баллов!</h2>
+            <button className="restart-button" onClick={onRestart}>Пройти заново</button>
         </div>
     );
 }

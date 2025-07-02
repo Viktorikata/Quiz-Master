@@ -2,6 +2,7 @@ import React, {useState} from "react";
 import Question from "./components/Question";
 import questions from "./questions";
 import Result from "./components/Result";
+import "./App.css"
 
 function App () {
 

@@ -1,4 +1,4 @@
-! [Скриншот Викторины](screenshot.png)
+![Скриншот Викторины](screenshot.png)
 
 # Quiz Master
 

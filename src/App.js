@@ -38,6 +38,7 @@ function App () {
   return (
     <div className="App">
       <h1>🧠 Quiz Master</h1>
+      <p>( Викторина на тему: "HTML, CSS, JS" )</p>
       {showResult ? (
         <Result score={score} onRestart={handleRestart} />
       ) : (

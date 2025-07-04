@@ -85,3 +85,32 @@ p {
   background-color: #0056b3;
 }
 
+
+@media (max-width: 480px) {
+
+  .App {
+    margin: 20px 5px;
+    padding: 20px;
+    border-radius: 12px;
+  }
+
+  .question-text {
+    font-size: 18px;
+  }
+
+  .option-item {
+    font-size: 16px;
+    padding: 10px 14px;
+  }
+
+  result-text {
+    font-size: 20px;
+    margin-bottom: 40px;
+  }
+
+  .restart-button {
+    font-size: 20px;
+    padding: 10px 16px;
+  }
+
+}
